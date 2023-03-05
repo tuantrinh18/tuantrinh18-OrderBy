@@ -1,0 +1,1 @@
+SELECT* FROM character WHERE id ORDER BY last_name ASC,first_name ASC ;
